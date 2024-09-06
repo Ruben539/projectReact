@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9DF9B1899CF392FAF485227AEBD76918C4561589",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9DF9B1899CF392FAF485227AEBD76918C4561589" : 0,
+    "08DB9769A0DD99CF904861A77CA5F95B61BE67DB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E4D76010-2B11-4AD1-B668-BF8CDBBB8F47",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9DF9B1899CF392FAF485227AEBD76918C4561589" : "congreso-roemmers\/",
+    "08DB9769A0DD99CF904861A77CA5F95B61BE67DB" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "congreso-roemmers",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "congreso-roemmers.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/mUcHG0Di\/musictour.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "08DB9769A0DD99CF904861A77CA5F95B61BE67DB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "mambo.com.py:\/var\/gitroot\/ios\/congreso_roemmers.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9DF9B1899CF392FAF485227AEBD76918C4561589"
+    }
+  ]
+}
